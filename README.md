@@ -1,5 +1,5 @@
 # MediaDownloader
-A start to a media downloader made using java 
+A start to a media downloader using java 
 
 java MediaDownloader.java
 
